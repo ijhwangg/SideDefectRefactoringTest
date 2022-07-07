@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideDefectRefactoringTest", "SideDefectRefactoringTest\SideDefectRefactoringTest.csproj", "{1173D8F3-3887-46AD-9AF1-CA01A6A933EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1173D8F3-3887-46AD-9AF1-CA01A6A933EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1173D8F3-3887-46AD-9AF1-CA01A6A933EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1173D8F3-3887-46AD-9AF1-CA01A6A933EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1173D8F3-3887-46AD-9AF1-CA01A6A933EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32499E0B-E06B-40C1-B077-0C85C3CCD825}
+	EndGlobalSection
+EndGlobal
